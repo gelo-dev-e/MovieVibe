@@ -1,0 +1,5 @@
+{
+  "name": "MovieVibe",
+  "description": "An AI-Driven Recommendation Engine that translates your mood into the perfect movie.",
+  "requestFramePermissions": []
+}
